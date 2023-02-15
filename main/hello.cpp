@@ -7,6 +7,6 @@ int main(void) {
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
   cout << "changes";
-  cout << "changes to repo for task  4";
+  cout << "changes to repo for task4";
   return 0;
 }
